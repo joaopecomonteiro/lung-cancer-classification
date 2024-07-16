@@ -21,3 +21,7 @@ Notebook used to sort the malignancies values given by different doctors and to 
 
 ## train
 Notenook used to train the models
+
+
+## TODO 
+translate comments to English
