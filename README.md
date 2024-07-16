@@ -2,7 +2,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 
-Lung Cancer Classification using Computerized Tomography (CT) Data
+This project involves utilizing Computerized Tomography (CT) images to develop one or more machine learning models capable of classifying new images, specifically predicting the presence of malignant nodules.
+
+The input data is sourced from the Lung Image Database Consortium image collection (LIDC-IDRI), a publicly available dataset of thoracic CT scans. Using Python open-source libraries such as pylidc and pyradiomics, numerous features and labels were extracted from these scans to train and develop various machine learning algorithms.
+
+The primary goal is to create an algorithm that not only performs well in classifying new, unseen data but also processes the available data to simplify the classification task.
 
 ## Notebooks order
 segmentation -> malignancies_and_features -> train
