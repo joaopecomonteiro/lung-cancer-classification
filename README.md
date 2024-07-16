@@ -24,4 +24,4 @@ Notenook used to train the models
 
 
 ## TODO 
-translate comments to English
+Translate comments to English
